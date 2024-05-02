@@ -8,8 +8,8 @@ I'm a computer science student from Taiwan, enjoy being part of the open-source 
 
 + :airplane: I enjoy traveling, Japan is my favorite
 
-+ :mailbox: How to reach me audryeconcordiaxrbjk@gmail.com
++ :mailbox: How to reach me contact@audry.com
 
 + 💬 Be free to ask me about anything [here](https://github.com/audryeconcordiaxrbjk/audryeconcordiaxrbjk/issues)
 
-<img align="right" width="290" src="https://github-readme-stats.vercel.app/api?username=audryeconcordiaxrbjk&show_icons=true&theme=aura&include_all_commits=true&hide_rank=true"/>
+<img align="right" width="290" src="https://github-readme-stats.vercel.app/api?username=audryeconcordiaxrbjk&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true"/>
